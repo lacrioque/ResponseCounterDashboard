@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <metadata>
+        <name>ResponseCounterDashboard</name>
+        <type>plugin</type>
+        <creationDate>2020-13-01</creationDate>
+        <last_update>2020-13-01</last_update>
+        <author>Marksu Fluer</author>
+        <authorUrl>https://www.limesurvey.org</authorUrl>
+        <license>GNU General Public License version 2 or later</license>
+        <version>1.0.0</version>
+        <description><![CDATA[Add a response overview dashboard paneö]]></description>
+    </metadata>
+
+    <compatibility>
+        <version>4.0</version>
+    </compatibility>
+</config>
